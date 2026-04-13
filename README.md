@@ -97,4 +97,6 @@ Enables selection by outlet location type, outlet size, and item type for detail
 
 
 ### 🔵 Blinkit Sales Report
-"C:\Users\AMIT RAJPOOT\OneDrive\Documents\Desktop\Blinkit report\BLINKIT_REPORT_.jpg"
+
+![BLINKIT_REPORT_](https://github.com/user-attachments/assets/eff40dc1-cbb8-49b7-bf04-ab6daff5b955)
+
